@@ -21,37 +21,37 @@ En está guía vamos a realizar un "Getting Started" del servicio ngDesk. Para e
 
 Lo primero que haremos será acceder a la [web oficial](https://ngdesk.com/). Una vez dentro, nos desplazaremos dentro de ella hacía abajo hasta encontrar los diferentes **planes** que nos ofrece la web. En nuestro caso, escogeremos el plan **gratuito** ya que se trata de una guía de carácter educativo. Al tratarse del plan gratuito no vamos a poder disfrutar de todas sus funcionalidades.
 
-![Plan gratuito](/Users/samuelpadron/Desktop/IDP/1.png "Planes de la web")
+![Plan gratuito](IDP/1.png "Planes de la web") 
 
 Una vez escogido el plan **gratuito** se nos mostrará la siguiente ventana. En dicha ventana se nos pide cumplimentar una serie de datos para comenzar con el registro de nuestro usuario en el servicio.
 
-![Registro](/Users/samuelpadron/Desktop/IDP/2.png "Registro web")
+![Registro](IDP/2.png "Registro web")
 
 Una vez rellenados todos los campos seleccionamos el botón ***Sign up for free*** y esperamos unos 10 segundos a que se complete el registro en el sitio web.
 
-![Espera](/Users/samuelpadron/Desktop/IDP/3.png "Esperando")
+![Espera](IDP/3.png "Esperando")
 
 Tras completar el registro lo primero que se nos pide es seleccionar a que **tipo** de industria pertenece nuestra empresa. En nuestro caso seleccionamos el sector tecnológico. 
 
-![Tipo sector](/Users/samuelpadron/Desktop/IDP/4.png "Tipo sector")
+![Tipo sector](IDP/4.png "Tipo sector")
 
 Seleccionamos el botón ***next*** y continuamos con los siguientes pasos del asistente. Ahora nos pide seleccionar el **número de empleados** que posee nuestra empresa. En nuestro caso lo dejamos en el número inferior.
 
-![Número empleados](/Users/samuelpadron/Desktop/IDP/5.png "Número empleados")
+![Número empleados](IDP/5.png "Número empleados")
 
 Volvemos a seleccionar el botón ***next*** para finalizar con el asistente. En está ocasión nos pregunta por el motivo de uso de esta herramienta. En nuestro caso, seleccionaremos **ambas** opciones para disponer de todas las funcionalidad que nos ofrece. 
 
-![Uso](/Users/samuelpadron/Desktop/IDP/6.png "Uso")
+![Uso](IDP/6.png "Uso")
 
 Como paso final del registro nos da la posibilidad de **personalizar** un poco nuestro entorno de trabajo para sentirnos más agusto dentro del mismo.
 
-![Personalización](/Users/samuelpadron/Desktop/IDP/7.png "Personalización")
+![Personalización](IDP/7.png "Personalización")
 
  Para finalizar con todo el proceso de registro, deberemos **verificar** nuestro correo electrónico de ***inicio de sesión*** y también proporcionar un correo de **soporte** tal y como se ve las siguientes ***2 imágenes***.
 
-![Verificación](/Users/samuelpadron/Desktop/IDP/8.png "Verificación")
+![Verificación](IDP/8.png "Verificación")
 
-![Soporte](/Users/samuelpadron/Desktop/IDP/9.png "Soporte")
+![Soporte](IDP/9.png "Soporte")
 
 ## Configurar los canales de soporte esenciales
 
@@ -59,21 +59,21 @@ Ahora procederemos a configurar los diferentes canales de soporte que nos propor
 
 Para configurar dicha opción debemos irnos a "**Modules**" y dentro de ella a la opción "**Contacts**" visualizando así las dos siguientes ventanas respectivamente.
 
-![Modules](/Users/samuelpadron/Desktop/IDP/10.png "Modules")
+![Modules](IDP/10.png "Modules")
 
-![Contacts](/Users/samuelpadron/Desktop/IDP/11.png "Contacts")
+![Contacts](IDP/11.png "Contacts")
 
 Dentro de "**Contacts** " buscamos la opción "**Channels**" y únicamente nos aparecera la opción "**E-mail**", pinchamos sobre ella y visualizaremos la siguiente ventana. En ella, se nos pide rellenar una serie de datos relacionados con el servicio que queremos poner en funcionamiento.
 
-![E-mail](/Users/samuelpadron/Desktop/IDP/12.png "E-mail")
+![E-mail](IDP/12.png "E-mail")
 
 Al hacer clic en ***next*** se nos abrirá la siguiente ventana del asistente. En ella seleccionaremos los ***asuntos*** que manejará dicho correo y otra serie de parámetros que podemos observar en la siguiente imagen. Esto lo configuraremos a nuestro gusto.
 
-![Configuración E-mail](/Users/samuelpadron/Desktop/IDP/13.png "Configuración E-mail")
+![Configuración E-mail](IDP/13.png "Configuración E-mail")
 
 Una vez finalizados los pasos del asistente ya tendremos nuestro "***Canal de comunicación*** creado. Deberemos observar algo como lo siguiente.
 
-![Creado](/Users/samuelpadron/Desktop/IDP/15.png "Creado")
+![Creado](IDP/15.png "Creado")
 
 ## Configurar la base de datos de conocimientos
 
@@ -83,35 +83,35 @@ Está es una opción bastante últil que nos propone este servicio. Gracias a el
 
 Lo primero será irnos a la ventana de "**Knowledge Base**", una ventana como la que vemos a continución.
 
-![FAQ](/Users/samuelpadron/Desktop/IDP/16.png "FAQ")
+![FAQ](IDP/16.png "FAQ")
 
 Luego seleccionaremos la opción **New** que se encuentra en la parte superior de la ventana.
 
-![New](/Users/samuelpadron/Desktop/IDP/17.png "New")
+![New](IDP/17.png "New")
 
 Y ahora seleccionaremos por ejemplo la opción "**Article**" para generar un número ***reporte*** por así decirlo. Al seleccionar dicha opción se nos abrirá la siguiente ventana.
 
-![Article](/Users/samuelpadron/Desktop/IDP/18.png "Article")
+![Article](IDP/18.png "Article")
 
 En nuestro caso, no nos hemos complicado ya que se trata de un mero ejemplo. Como se puede observar en la imagen anterior, hemos colocado un **título**, en este caso con el nombre del error para que sea fácilmente localizable por el usuario y de además una **descripción** donde explicaríamos la solución de dicho problema.
 
 Para finalizar con este "**Article**" seleccionamos la opción "**Save**" y como podemos ver ya contamos con el artículo de solución al problema en las ***FAQ'S***.
 
-![FINFAQ](/Users/samuelpadron/Desktop/IDP/20.png "FINFAQ")
+![FINFAQ](IDP/20.png "FINFAQ")
 
 ## Definir el nivel de acceso de los usuarios
 
 Otro punto importante consiste en establecer restricciones a la hora de conceder permisos sobre lo que pueden o **no** pueden hacer los diferentes usuarios que tienen acceso a esta herramienta. Para ello, vamos a acceder a los ***ajustes de la compañía***.
 
-![Ajustes](/Users/samuelpadron/Desktop/IDP/21.png "Ajustes")
+![Ajustes](IDP/21.png "Ajustes")
 
 Dentro de "**User Management**" entramos en la opción "**Roles**" y visualizaremos la siguiente ventana.
 
-![Roles](/Users/samuelpadron/Desktop/IDP/22.png "Roles")
+![Roles](IDP/22.png "Roles")
 
 Ahora haremos clic en la opción ***new*** y se nos abrirá la siguiente ventana. En ella, podemos personalizar los roles de los usuarios a nuestro gusto.
 
-![PersonalizarRol](/Users/samuelpadron/Desktop/IDP/23.png "PersonalizarRol")
+![PersonalizarRol](IDP/23.png "PersonalizarRol")
 
 Una vez finalizado este paso ya tendríamos los roles puestos a nuestro gusto.
 
@@ -119,15 +119,15 @@ Una vez finalizado este paso ya tendríamos los roles puestos a nuestro gusto.
 
 En este apartado veremos como configurar meramente los tickets que queremos que el sistema genere o también los podemos generar nosotros mismos. Para ello accederemos al siguiente apartado y vemos que dispones de un ticket ya generado de forma automática como prueba.
 
-![Ticket](/Users/samuelpadron/Desktop/IDP/24.png)
+![Ticket](IDP/24.png)
 
 Entraremos de este ticket y como su propio nombre indica, nos invita a conocer su estructura y lo que podemos hacer con él. Como vemos, es algo muy sencillo. Dentro de él nos permite añadir un texto, un asunto, adjuntar archivos y demás opciones para proporcionarle una respuesta adecuada a cada cliente de forma personalizada.
 
-![Ejemplo](/Users/samuelpadron/Desktop/IDP/25.png)
+![Ejemplo](IDP/25.png)
 
 Haciendo uso de la opción "***Pre-made respondes***" prodemos crear respuestas prefabricadas. Estas respuestas podrían ser las típicas que nos encontramos en numerosos correos que recibimos a diario. Para crear una simplemente pinchamos sobre la opción y observaríamos la siguiente ventana en la que creamos dicha respuesta.
 
-![Pre-made](/Users/samuelpadron/Desktop/IDP/28.png)
+![Pre-made](IDP/28.png)
 
 ## Configurar automatizaciones
 
@@ -135,9 +135,9 @@ Por último trataremos uno de los puntos más útiles de este servicio, la **aut
 
 Para ello lo primero que tenemos que hacer es acceder a la opción "***Tickets***" y posteriormente nos iremos a "***Workflows***" para poder configurar estos procesos.
 
-![Ventana1](/Users/samuelpadron/Desktop/IDP/29.png)
+![Ventana1](IDP/29.png)
 
-![Ventana2](/Users/samuelpadron/Desktop/IDP/30.png)
+![Ventana2](IDP/30.png)
 
 ## Referencias
 
